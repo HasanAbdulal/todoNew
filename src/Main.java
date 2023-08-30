@@ -67,7 +67,7 @@ public class Main {
         }*/
 
         for (int i = 100; i > 0; i--) {
-            System.out.println("Vous avez n " + i);
+            System.out.println("You have n times " + i);
         }
     }
 }
