@@ -24,6 +24,6 @@ public class Methods {
     public static void main(String[] args) {
 //        myMethod(5, 10);
         String word = myWords("Hello Thinker!");
-//        System.out.println(word);
+        System.out.println(word);
     }
 }
