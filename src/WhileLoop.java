@@ -58,5 +58,13 @@ public class WhileLoop {
             }
         }
         System.out.println("The average is: " + sum / counter);
+
+        // Write a program that prints this numbers: 1, 4, 10, 22, 46, 94, 190, 382,
+        int num = 2;
+        while (num < 520) {
+            System.out.println("# " + (num - 1));
+            num = num * 2 + 1;
+            System.out.println(num);
+        }
     }
 }
