@@ -30,7 +30,7 @@ public class Arrays1D {
         // Normally the index of an array starts from 0 to length - 1
         for (int i = 0; i < myArray5.length; i++) {
 //            System.out.println("myArray 5[" + i + "] = " + myArray5[i]);
-//            System.out.println(myArray5[i]); // Its print 5 times the first element of the array
+            System.out.println(myArray5[i]); // Its print 5 times the first element of the array
         }
 
         // Foreach loop
