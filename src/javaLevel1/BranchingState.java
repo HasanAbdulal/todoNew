@@ -1,3 +1,5 @@
+package javaLevel1;
+
 import java.util.Scanner;
 
 /*

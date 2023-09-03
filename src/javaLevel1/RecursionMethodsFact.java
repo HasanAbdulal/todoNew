@@ -1,3 +1,5 @@
+package javaLevel1;
+
 public class RecursionMethodsFact {
     static int fact(int n) { // 5! = 5 * 4 * 3 * 2 * 1 = 120 => 1! = 1
         if (n == 1 || n == 0) {

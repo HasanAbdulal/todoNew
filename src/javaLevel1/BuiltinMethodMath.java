@@ -1,3 +1,5 @@
+package javaLevel1;
+
 import static java.lang.Math.*;
 
 public class BuiltinMethodMath {

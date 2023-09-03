@@ -1,3 +1,5 @@
+package javaLevel1;
+
 public class RecDirectIndirect {
     static void directRec() {
         directRec(); // This is direct recursion

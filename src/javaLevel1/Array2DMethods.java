@@ -1,3 +1,5 @@
+package javaLevel1;
+
 public class Array2DMethods {
     // 1. Print 2D array
     static void print2DArray(int[][] arr) {

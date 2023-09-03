@@ -1,3 +1,5 @@
+package javaLevel1;
+
 public class Array2D {
     public static void main(String[] args) {
         // Hard Method illustrating 2D array

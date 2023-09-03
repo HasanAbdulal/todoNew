@@ -1,3 +1,5 @@
+package javaLevel1;
+
 public class ForLoop {
     public static void main(String[] args) {
         /*for (int i = 0; i < 12 && i % 2 == 0; i++) {

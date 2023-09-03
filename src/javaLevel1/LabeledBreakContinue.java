@@ -1,3 +1,5 @@
+package javaLevel1;
+
 // Break and continue with labels
 public class LabeledBreakContinue {
     public static void main(String[] args) {
