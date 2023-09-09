@@ -9,5 +9,10 @@ public class Main {
 //        s1 = new Student(4331, "John", 1998);
         // s1.STUDENT_ID = 2; // Error: cannot assign a value to final variable STUDENT_ID
         System.out.println(s1.STUDENT_ID);
+        /*
+         * Stop Value Change
+         * Stop Method Overriding
+         * Stop Inheritance
+         * */
     }
 }
