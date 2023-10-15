@@ -7,6 +7,7 @@ import java.io.IOException;
 
 public class FolderMethod {
     public static void main(String[] args) throws IOException {
+
         File newFolder = new File("C:/Users/hasan/Downloads/Thread");
         // Create a new folder
 //        newFolder.mkdir();
@@ -19,6 +20,7 @@ public class FolderMethod {
         fos.flush();
         fos.close();
         FileInputStream fis = new FileInputStream(newFile);
+
         int input;
         while ((input = fis.read()) != -1) {
             System.out.print((char) input);
