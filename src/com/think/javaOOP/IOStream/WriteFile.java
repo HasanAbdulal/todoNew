@@ -6,8 +6,7 @@ import java.nio.charset.StandardCharsets;
 public class WriteFile {
     public static void main(String[] args) throws Exception, FileNotFoundException, IOException {
         FileOutputStream fos = new FileOutputStream("lorem.txt");
-        String st = "السلام HTETETETeLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. " +
-            "Suspendisse";
+        String st = "HTETETETeLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus";
         byte[] b = st.getBytes(StandardCharsets.UTF_8);
         fos.write(b, 0, b.length);
         fos.close();
